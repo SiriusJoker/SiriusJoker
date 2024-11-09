@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Anastasiia
+- C++, Python, SQL
 - 📫 Reach me by email: kortukovaa@gmail.com
 
 <!---
