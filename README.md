@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Anastasiia
-- C++, Python, SQL
+- 
+- Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI
+- 
+- LinkedIn: http://www.linkedin.com/in/kortukovaa/
 - 📫 Reach me by email: kortukovaa@gmail.com
 
 <!---
