@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Anastasiia
+👋 Hi, I’m Anastasiia
 
-- Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI, AWS
+Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI, AWS
 
-- Projects: [DWH_Postgresql](https://github.com/SiriusJoker/DWH_PostgreSQL/tree/main)
+Projects: [DWH_Postgresql](https://github.com/SiriusJoker/DWH_PostgreSQL/tree/main)
 
-- LinkedIn: http://www.linkedin.com/in/kortukovaa/
-- 📫 Reach me by email: kortukovaa@gmail.com
+LinkedIn: http://www.linkedin.com/in/kortukovaa/
+📫 Reach me by email: kortukovaa@gmail.com
 
 <!---
 SiriusJoker/SiriusJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
