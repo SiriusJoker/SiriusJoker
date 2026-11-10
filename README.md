@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anastasiia
-- 
-- Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI
-- 
+
+- Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI, AWS
+
 - LinkedIn: http://www.linkedin.com/in/kortukovaa/
 - 📫 Reach me by email: kortukovaa@gmail.com
 
