@@ -5,6 +5,7 @@ Analytics Engineer: SQL, Databricks, Python, PySpark, PowerBI, AWS
 Projects: [DWH_Postgresql](https://github.com/SiriusJoker/DWH_PostgreSQL/tree/main)
 
 LinkedIn: http://www.linkedin.com/in/kortukovaa/
+
 📫 Reach me by email: kortukovaa@gmail.com
 
 <!---
